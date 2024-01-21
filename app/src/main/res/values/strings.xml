@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppVacaciones2</string>
+    <string name="nombreLugar">Nombre del lugar</string>
+    <string name="imgRef">Imagen referencial</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="orden">Orden</string>
+    <string name="costoAlojamiento">Costo de Alojamiento</string>
+    <string name="costoTransporte">Costo de Transporte</string>
+    <string name="comentarios">Comentarios</string>
+</resources>
